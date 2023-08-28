@@ -74,6 +74,7 @@ class TaxCalculator
     }
 }
 ```
+-----
 
 ### Installation for test
 
