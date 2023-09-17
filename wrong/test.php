@@ -3,7 +3,7 @@
 use DesignPattern\Wrong\TaxCalculator;
 use DesignPattern\Wrong\Budget;
 
-require "../vendor/autoload.php";
+require "vendor/autoload.php";
 
 $calculator = new TaxCalculator();
 $budget =  new Budget();

@@ -5,7 +5,7 @@ use DesignPattern\Right\Tax\Iss;
 use DesignPattern\Right\TaxCalculator;
 use DesignPattern\Right\Budget;
 
-require "../vendor/autoload.php";
+require "vendor/autoload.php";
 
 $calculator = new TaxCalculator();
 $budget =  new Budget();

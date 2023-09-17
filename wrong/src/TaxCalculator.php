@@ -12,5 +12,7 @@ class TaxCalculator
             case "ISS":
                 return $budget->value * 0.06;
         }
+
+        return $budget->value;
     }
 }
